@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 import ToIPA from './components/ToIPA';
 import ToJapanize from './components/ToJapanize';

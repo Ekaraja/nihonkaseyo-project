@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from 'react';
 import { frDict } from "../data/fr_dict"
 
